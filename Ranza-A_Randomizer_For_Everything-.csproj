@@ -80,7 +80,10 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Concept Arts\Ideas.txt" />
+    <None Include="Resources\Avatar_Be.png" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="Concept Arts\Ranza.png" />
   </ItemGroup>

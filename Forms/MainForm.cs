@@ -16,5 +16,22 @@ namespace Ranza_A_Randomizer_For_Everything_
         {
             InitializeComponent();
         }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        #region Components
+
+        #endregion
+
+        #region Helper Functions
+
+        #endregion
+
+        #region Menu Events
+
+        #endregion
     }
 }

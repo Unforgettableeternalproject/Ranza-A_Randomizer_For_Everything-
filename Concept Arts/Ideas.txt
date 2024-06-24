@@ -1,0 +1,30 @@
+Generation Modes:
+
+Numbers
+Colors
+Dates
+Names
+Famous Quotes
+Premade Words
+Ideas
+Blabberings
+Customs
+Anything
+
+-------------------
+
+Output Modes:
+
+Export to file
+Presentation
+Complementary Text
+
+-------------------
+
+Extra Features:
+
+Localizations
+Customizable Themes (???)
+Log Window
+More Output Modes
+Explaination Window
