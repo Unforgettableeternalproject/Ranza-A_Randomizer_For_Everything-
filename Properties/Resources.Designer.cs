@@ -73,6 +73,16 @@ namespace Ranza_A_Randomizer_For_Everything_.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
+        internal static System.Drawing.Bitmap LogoWithTitle {
+            get {
+                object obj = ResourceManager.GetObject("LogoWithTitle", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+        /// </summary>
         internal static System.Drawing.Bitmap Ranza {
             get {
                 object obj = ResourceManager.GetObject("Ranza", resourceCulture);

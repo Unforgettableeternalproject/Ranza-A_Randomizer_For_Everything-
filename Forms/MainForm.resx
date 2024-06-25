@@ -117,11 +117,227 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&gt;&gt;G_NumericL7.Name" xml:space="preserve">
+    <value>G_NumericL7</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL7.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL7.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;G_NumericRegex.Name" xml:space="preserve">
+    <value>G_NumericRegex</value>
+  </data>
+  <data name="&gt;&gt;G_NumericRegex.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NumericRegex.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_NumericRegex.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;G1_AllowRegex.Name" xml:space="preserve">
+    <value>G1_AllowRegex</value>
+  </data>
+  <data name="&gt;&gt;G1_AllowRegex.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G1_AllowRegex.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G1_AllowRegex.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL6.Name" xml:space="preserve">
+    <value>G_NumericL6</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL6.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL6.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;G_NumericMultiple.Name" xml:space="preserve">
+    <value>G_NumericMultiple</value>
+  </data>
+  <data name="&gt;&gt;G_NumericMultiple.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NumericMultiple.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_NumericMultiple.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;G1_AllowMutiple.Name" xml:space="preserve">
+    <value>G1_AllowMutiple</value>
+  </data>
+  <data name="&gt;&gt;G1_AllowMutiple.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G1_AllowMutiple.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G1_AllowMutiple.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL5.Name" xml:space="preserve">
+    <value>G_NumericL5</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL5.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL5.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;G_NumericDP.Name" xml:space="preserve">
+    <value>G_NumericDP</value>
+  </data>
+  <data name="&gt;&gt;G_NumericDP.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NumericDP.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_NumericDP.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL4.Name" xml:space="preserve">
+    <value>G_NumericL4</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL4.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL4.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;G1_AllowDecimal.Name" xml:space="preserve">
+    <value>G1_AllowDecimal</value>
+  </data>
+  <data name="&gt;&gt;G1_AllowDecimal.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G1_AllowDecimal.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G1_AllowDecimal.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL3.Name" xml:space="preserve">
+    <value>G_NumericL3</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL3.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL3.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL2.Name" xml:space="preserve">
+    <value>G_NumericL2</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL2.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL2.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;G_NumericRMax.Name" xml:space="preserve">
+    <value>G_NumericRMax</value>
+  </data>
+  <data name="&gt;&gt;G_NumericRMax.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NumericRMax.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_NumericRMax.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;G_NumericRMin.Name" xml:space="preserve">
+    <value>G_NumericRMin</value>
+  </data>
+  <data name="&gt;&gt;G_NumericRMin.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NumericRMin.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_NumericRMin.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;G_NumericTitle.Name" xml:space="preserve">
+    <value>G_NumericTitle</value>
+  </data>
+  <data name="&gt;&gt;G_NumericTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NumericTitle.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_NumericTitle.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL1.Name" xml:space="preserve">
+    <value>G_NumericL1</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL1.Parent" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_NumericL1.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="G_ModeNumeric.Location" type="System.Drawing.Point, System.Drawing">
+    <value>177, 81</value>
+  </data>
+  <data name="G_ModeNumeric.Size" type="System.Drawing.Size, System.Drawing">
+    <value>459, 233</value>
+  </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="G_ModeNumeric.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="G_ModeNumeric.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;G_ModeNumeric.Name" xml:space="preserve">
+    <value>G_ModeNumeric</value>
+  </data>
+  <data name="&gt;&gt;G_ModeNumeric.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_ModeNumeric.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;G_ModeNumeric.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
   <data name="G_NumericL7.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="G_NumericL7.Font" type="System.Drawing.Font, System.Drawing">
     <value>微軟正黑體, 8.25pt, style=Bold</value>
   </data>
@@ -559,7 +775,7 @@
     <value>G_ModeNumeric</value>
   </data>
   <data name="&gt;&gt;G_NumericL1.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>15</value>
   </data>
   <data name="G_NumericTitle.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -589,28 +805,64 @@
     <value>G_ModeNumeric</value>
   </data>
   <data name="&gt;&gt;G_NumericTitle.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>14</value>
   </data>
-  <data name="G_ModeNumeric.Location" type="System.Drawing.Point, System.Drawing">
-    <value>177, 81</value>
+  <data name="&gt;&gt;Suffix.Name" xml:space="preserve">
+    <value>Suffix</value>
   </data>
-  <data name="G_ModeNumeric.Size" type="System.Drawing.Size, System.Drawing">
-    <value>459, 233</value>
+  <data name="&gt;&gt;Suffix.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="G_ModeNumeric.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;Suffix.Parent" xml:space="preserve">
+    <value>Generation</value>
+  </data>
+  <data name="&gt;&gt;Suffix.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;G_ModeNumeric.Name" xml:space="preserve">
-    <value>G_ModeNumeric</value>
+  <data name="&gt;&gt;Choices.Name" xml:space="preserve">
+    <value>Choices</value>
   </data>
-  <data name="&gt;&gt;G_ModeNumeric.Type" xml:space="preserve">
+  <data name="&gt;&gt;Choices.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Choices.Parent" xml:space="preserve">
+    <value>Generation</value>
+  </data>
+  <data name="&gt;&gt;Choices.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;Prefix.Name" xml:space="preserve">
+    <value>Prefix</value>
+  </data>
+  <data name="&gt;&gt;Prefix.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Prefix.Parent" xml:space="preserve">
+    <value>Generation</value>
+  </data>
+  <data name="&gt;&gt;Prefix.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Generation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>177, 36</value>
+  </data>
+  <data name="Generation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>558, 39</value>
+  </data>
+  <data name="Generation.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;Generation.Name" xml:space="preserve">
+    <value>Generation</value>
+  </data>
+  <data name="&gt;&gt;Generation.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;G_ModeNumeric.Parent" xml:space="preserve">
+  <data name="&gt;&gt;Generation.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;G_ModeNumeric.ZOrder" xml:space="preserve">
-    <value>6</value>
+  <data name="&gt;&gt;Generation.ZOrder" xml:space="preserve">
+    <value>9</value>
   </data>
   <data name="Suffix.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -729,26 +981,86 @@
   <data name="&gt;&gt;Prefix.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="Generation.Location" type="System.Drawing.Point, System.Drawing">
-    <value>177, 36</value>
+  <data name="&gt;&gt;Teaser.Name" xml:space="preserve">
+    <value>Teaser</value>
   </data>
-  <data name="Generation.Size" type="System.Drawing.Size, System.Drawing">
-    <value>558, 39</value>
+  <data name="&gt;&gt;Teaser.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Generation.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;Teaser.Parent" xml:space="preserve">
+    <value>Output</value>
+  </data>
+  <data name="&gt;&gt;Teaser.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;Complementary.Name" xml:space="preserve">
+    <value>Complementary</value>
+  </data>
+  <data name="&gt;&gt;Complementary.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Complementary.Parent" xml:space="preserve">
+    <value>Output</value>
+  </data>
+  <data name="&gt;&gt;Complementary.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;Generation.Name" xml:space="preserve">
-    <value>Generation</value>
+  <data name="&gt;&gt;Presentation.Name" xml:space="preserve">
+    <value>Presentation</value>
   </data>
-  <data name="&gt;&gt;Generation.Type" xml:space="preserve">
+  <data name="&gt;&gt;Presentation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Presentation.Parent" xml:space="preserve">
+    <value>Output</value>
+  </data>
+  <data name="&gt;&gt;Presentation.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;Export.Name" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="&gt;&gt;Export.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Export.Parent" xml:space="preserve">
+    <value>Output</value>
+  </data>
+  <data name="&gt;&gt;Export.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;Display.Name" xml:space="preserve">
+    <value>Display</value>
+  </data>
+  <data name="&gt;&gt;Display.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Display.Parent" xml:space="preserve">
+    <value>Output</value>
+  </data>
+  <data name="&gt;&gt;Display.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Output.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 81</value>
+  </data>
+  <data name="Output.Size" type="System.Drawing.Size, System.Drawing">
+    <value>167, 262</value>
+  </data>
+  <data name="Output.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;Output.Name" xml:space="preserve">
+    <value>Output</value>
+  </data>
+  <data name="&gt;&gt;Output.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Generation.Parent" xml:space="preserve">
+  <data name="&gt;&gt;Output.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;Generation.ZOrder" xml:space="preserve">
-    <value>5</value>
+  <data name="&gt;&gt;Output.ZOrder" xml:space="preserve">
+    <value>8</value>
   </data>
   <data name="Teaser.Enabled" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -903,47 +1215,335 @@
   <data name="&gt;&gt;Display.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="Output.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 81</value>
+  <data name="&gt;&gt;F_Clear.Name" xml:space="preserve">
+    <value>F_Clear</value>
   </data>
-  <data name="Output.Size" type="System.Drawing.Size, System.Drawing">
-    <value>167, 262</value>
+  <data name="&gt;&gt;F_Clear.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Output.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;F_Clear.Parent" xml:space="preserve">
+    <value>Functions</value>
+  </data>
+  <data name="&gt;&gt;F_Clear.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;F_OpenFolder.Name" xml:space="preserve">
+    <value>F_OpenFolder</value>
+  </data>
+  <data name="&gt;&gt;F_OpenFolder.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;F_OpenFolder.Parent" xml:space="preserve">
+    <value>Functions</value>
+  </data>
+  <data name="&gt;&gt;F_OpenFolder.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;F_Randomize.Name" xml:space="preserve">
+    <value>F_Randomize</value>
+  </data>
+  <data name="&gt;&gt;F_Randomize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;F_Randomize.Parent" xml:space="preserve">
+    <value>Functions</value>
+  </data>
+  <data name="&gt;&gt;F_Randomize.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;Output.Name" xml:space="preserve">
-    <value>Output</value>
+  <data name="&gt;&gt;FunctionLabel.Name" xml:space="preserve">
+    <value>FunctionLabel</value>
   </data>
-  <data name="&gt;&gt;Output.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;FunctionLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Output.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;FunctionLabel.Parent" xml:space="preserve">
+    <value>Functions</value>
   </data>
-  <data name="&gt;&gt;Output.ZOrder" xml:space="preserve">
-    <value>4</value>
+  <data name="&gt;&gt;FunctionLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
   </data>
-  <data name="FileAccess.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="Functions.Location" type="System.Drawing.Point, System.Drawing">
     <value>641, 81</value>
   </data>
-  <data name="FileAccess.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="Functions.Size" type="System.Drawing.Size, System.Drawing">
     <value>93, 233</value>
   </data>
-  <data name="FileAccess.TabIndex" type="System.Int32, mscorlib">
+  <data name="Functions.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
-  <data name="&gt;&gt;FileAccess.Name" xml:space="preserve">
-    <value>FileAccess</value>
+  <data name="&gt;&gt;Functions.Name" xml:space="preserve">
+    <value>Functions</value>
   </data>
-  <data name="&gt;&gt;FileAccess.Type" xml:space="preserve">
+  <data name="&gt;&gt;Functions.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;FileAccess.Parent" xml:space="preserve">
+  <data name="&gt;&gt;Functions.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;FileAccess.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;Functions.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="F_Clear.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 9pt, style=Bold</value>
+  </data>
+  <data name="F_Clear.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="F_Clear.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 58</value>
+  </data>
+  <data name="F_Clear.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 50</value>
+  </data>
+  <data name="F_Clear.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="F_Clear.Text" xml:space="preserve">
+    <value>清空當前所有欄位</value>
+  </data>
+  <data name="&gt;&gt;F_Clear.Name" xml:space="preserve">
+    <value>F_Clear</value>
+  </data>
+  <data name="&gt;&gt;F_Clear.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;F_Clear.Parent" xml:space="preserve">
+    <value>Functions</value>
+  </data>
+  <data name="&gt;&gt;F_Clear.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="F_OpenFolder.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 9pt, style=Bold</value>
+  </data>
+  <data name="F_OpenFolder.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="F_OpenFolder.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 170</value>
+  </data>
+  <data name="F_OpenFolder.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 47</value>
+  </data>
+  <data name="F_OpenFolder.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
+  </data>
+  <data name="F_OpenFolder.Text" xml:space="preserve">
+    <value>開啟輸出資料夾</value>
+  </data>
+  <data name="&gt;&gt;F_OpenFolder.Name" xml:space="preserve">
+    <value>F_OpenFolder</value>
+  </data>
+  <data name="&gt;&gt;F_OpenFolder.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;F_OpenFolder.Parent" xml:space="preserve">
+    <value>Functions</value>
+  </data>
+  <data name="&gt;&gt;F_OpenFolder.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="F_Randomize.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 9pt, style=Bold</value>
+  </data>
+  <data name="F_Randomize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 114</value>
+  </data>
+  <data name="F_Randomize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 50</value>
+  </data>
+  <data name="F_Randomize.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="F_Randomize.Text" xml:space="preserve">
+    <value>隨機化所有東西</value>
+  </data>
+  <data name="&gt;&gt;F_Randomize.Name" xml:space="preserve">
+    <value>F_Randomize</value>
+  </data>
+  <data name="&gt;&gt;F_Randomize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;F_Randomize.Parent" xml:space="preserve">
+    <value>Functions</value>
+  </data>
+  <data name="&gt;&gt;F_Randomize.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="FunctionLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="FunctionLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 15.75pt, style=Bold</value>
+  </data>
+  <data name="FunctionLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="FunctionLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 14</value>
+  </data>
+  <data name="FunctionLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>54, 26</value>
+  </data>
+  <data name="FunctionLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="FunctionLabel.Text" xml:space="preserve">
+    <value>功能</value>
+  </data>
+  <data name="&gt;&gt;FunctionLabel.Name" xml:space="preserve">
+    <value>FunctionLabel</value>
+  </data>
+  <data name="&gt;&gt;FunctionLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;FunctionLabel.Parent" xml:space="preserve">
+    <value>Functions</value>
+  </data>
+  <data name="&gt;&gt;FunctionLabel.ZOrder" xml:space="preserve">
     <value>3</value>
+  </data>
+  <data name="&gt;&gt;O1_Generate.Name" xml:space="preserve">
+    <value>O1_Generate</value>
+  </data>
+  <data name="&gt;&gt;O1_Generate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O1_Generate.Parent" xml:space="preserve">
+    <value>O_ModeExport</value>
+  </data>
+  <data name="&gt;&gt;O1_Generate.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;O1_Tabular.Name" xml:space="preserve">
+    <value>O1_Tabular</value>
+  </data>
+  <data name="&gt;&gt;O1_Tabular.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O1_Tabular.Parent" xml:space="preserve">
+    <value>O_ModeExport</value>
+  </data>
+  <data name="&gt;&gt;O1_Tabular.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;O1_SecondRandom.Name" xml:space="preserve">
+    <value>O1_SecondRandom</value>
+  </data>
+  <data name="&gt;&gt;O1_SecondRandom.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O1_SecondRandom.Parent" xml:space="preserve">
+    <value>O_ModeExport</value>
+  </data>
+  <data name="&gt;&gt;O1_SecondRandom.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;O_ExportL3.Name" xml:space="preserve">
+    <value>O_ExportL3</value>
+  </data>
+  <data name="&gt;&gt;O_ExportL3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ExportL3.Parent" xml:space="preserve">
+    <value>O_ModeExport</value>
+  </data>
+  <data name="&gt;&gt;O_ExportL3.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;O1_Unique.Name" xml:space="preserve">
+    <value>O1_Unique</value>
+  </data>
+  <data name="&gt;&gt;O1_Unique.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O1_Unique.Parent" xml:space="preserve">
+    <value>O_ModeExport</value>
+  </data>
+  <data name="&gt;&gt;O1_Unique.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;O_ExportBatchSize.Name" xml:space="preserve">
+    <value>O_ExportBatchSize</value>
+  </data>
+  <data name="&gt;&gt;O_ExportBatchSize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ExportBatchSize.Parent" xml:space="preserve">
+    <value>O_ModeExport</value>
+  </data>
+  <data name="&gt;&gt;O_ExportBatchSize.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;O_ExportL2.Name" xml:space="preserve">
+    <value>O_ExportL2</value>
+  </data>
+  <data name="&gt;&gt;O_ExportL2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ExportL2.Parent" xml:space="preserve">
+    <value>O_ModeExport</value>
+  </data>
+  <data name="&gt;&gt;O_ExportL2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;O_ExportBatch.Name" xml:space="preserve">
+    <value>O_ExportBatch</value>
+  </data>
+  <data name="&gt;&gt;O_ExportBatch.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ExportBatch.Parent" xml:space="preserve">
+    <value>O_ModeExport</value>
+  </data>
+  <data name="&gt;&gt;O_ExportBatch.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;O_ExportL1.Name" xml:space="preserve">
+    <value>O_ExportL1</value>
+  </data>
+  <data name="&gt;&gt;O_ExportL1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ExportL1.Parent" xml:space="preserve">
+    <value>O_ModeExport</value>
+  </data>
+  <data name="&gt;&gt;O_ExportL1.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;O_ExportTitle.Name" xml:space="preserve">
+    <value>O_ExportTitle</value>
+  </data>
+  <data name="&gt;&gt;O_ExportTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ExportTitle.Parent" xml:space="preserve">
+    <value>O_ModeExport</value>
+  </data>
+  <data name="&gt;&gt;O_ExportTitle.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="O_ModeExport.Location" type="System.Drawing.Point, System.Drawing">
+    <value>177, 320</value>
+  </data>
+  <data name="O_ModeExport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>556, 136</value>
+  </data>
+  <data name="O_ModeExport.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;O_ModeExport.Name" xml:space="preserve">
+    <value>O_ModeExport</value>
+  </data>
+  <data name="&gt;&gt;O_ModeExport.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ModeExport.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;O_ModeExport.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <data name="O1_Generate.Font" type="System.Drawing.Font, System.Drawing">
     <value>微軟正黑體, 15.75pt, style=Bold</value>
@@ -972,6 +1572,9 @@
   <data name="&gt;&gt;O1_Generate.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <metadata name="Description.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>122, 17</value>
+  </metadata>
   <data name="O1_Tabular.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -993,9 +1596,6 @@
   <data name="O1_Tabular.Text" xml:space="preserve">
     <value>匯出為表格</value>
   </data>
-  <metadata name="Description.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>122, 17</value>
-  </metadata>
   <data name="O1_Tabular.ToolTip" xml:space="preserve">
     <value>將最後結果以.csv檔匯出</value>
   </data>
@@ -1263,26 +1863,50 @@
   <data name="&gt;&gt;O_ExportTitle.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="O_ModeExport.Location" type="System.Drawing.Point, System.Drawing">
-    <value>177, 320</value>
+  <data name="&gt;&gt;BernieName.Name" xml:space="preserve">
+    <value>BernieName</value>
   </data>
-  <data name="O_ModeExport.Size" type="System.Drawing.Size, System.Drawing">
-    <value>556, 136</value>
+  <data name="&gt;&gt;BernieName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="O_ModeExport.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
+  <data name="&gt;&gt;BernieName.Parent" xml:space="preserve">
+    <value>Signature</value>
   </data>
-  <data name="&gt;&gt;O_ModeExport.Name" xml:space="preserve">
-    <value>O_ModeExport</value>
+  <data name="&gt;&gt;BernieName.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="&gt;&gt;O_ModeExport.Type" xml:space="preserve">
+  <data name="&gt;&gt;Bernie.Name" xml:space="preserve">
+    <value>Bernie</value>
+  </data>
+  <data name="&gt;&gt;Bernie.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Bernie.Parent" xml:space="preserve">
+    <value>Signature</value>
+  </data>
+  <data name="&gt;&gt;Bernie.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="Signature.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 348</value>
+  </data>
+  <data name="Signature.Size" type="System.Drawing.Size, System.Drawing">
+    <value>167, 107</value>
+  </data>
+  <data name="Signature.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;Signature.Name" xml:space="preserve">
+    <value>Signature</value>
+  </data>
+  <data name="&gt;&gt;Signature.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;O_ModeExport.Parent" xml:space="preserve">
+  <data name="&gt;&gt;Signature.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;O_ModeExport.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;Signature.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="BernieName.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1341,26 +1965,8 @@
   <data name="&gt;&gt;Bernie.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="Signature.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 348</value>
-  </data>
-  <data name="Signature.Size" type="System.Drawing.Size, System.Drawing">
-    <value>167, 107</value>
-  </data>
-  <data name="Signature.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;Signature.Name" xml:space="preserve">
-    <value>Signature</value>
-  </data>
-  <data name="&gt;&gt;Signature.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Signature.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;Signature.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="Title.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
   </data>
   <data name="Title.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 36</value>
@@ -1386,24 +1992,6 @@
   <metadata name="MenuBar.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <data name="儲存當前設定ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 20</value>
-  </data>
-  <data name="儲存當前設定ToolStripMenuItem.Text" xml:space="preserve">
-    <value>儲存當前設定</value>
-  </data>
-  <data name="紀錄視窗ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>67, 20</value>
-  </data>
-  <data name="紀錄視窗ToolStripMenuItem.Text" xml:space="preserve">
-    <value>紀錄視窗</value>
-  </data>
-  <data name="使用說明ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>67, 20</value>
-  </data>
-  <data name="使用說明ToolStripMenuItem.Text" xml:space="preserve">
-    <value>使用說明</value>
-  </data>
   <data name="MenuBar.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
   </data>
@@ -1426,7 +2014,754 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;MenuBar.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="General.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="General.Text" xml:space="preserve">
+    <value>常用</value>
+  </data>
+  <data name="Contact.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>聯絡開發者</value>
+  </data>
+  <data name="Options.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Options.Text" xml:space="preserve">
+    <value>選項</value>
+  </data>
+  <data name="SaveConfig.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="SaveConfig.Text" xml:space="preserve">
+    <value>儲存當前設定</value>
+  </data>
+  <data name="LoadConfig.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="LoadConfig.Text" xml:space="preserve">
+    <value>載入已儲存的設定</value>
+  </data>
+  <data name="Reset.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 9pt, style=Bold</value>
+  </data>
+  <data name="Reset.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="Reset.Text" xml:space="preserve">
+    <value>重置應用程式</value>
+  </data>
+  <data name="Windows.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Windows.Text" xml:space="preserve">
+    <value>視窗</value>
+  </data>
+  <data name="SystemLog.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="SystemLog.Text" xml:space="preserve">
+    <value>紀錄視窗</value>
+  </data>
+  <data name="UserManual.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="UserManual.Text" xml:space="preserve">
+    <value>使用說明</value>
+  </data>
+  <data name="Settings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="ChangeLanguage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="ChangeLanguage.Text" xml:space="preserve">
+    <value>切換語言</value>
+  </data>
+  <data name="English.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="English.Text" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="TraditionalChinese.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="TraditionalChinese.Text" xml:space="preserve">
+    <value>繁體中文</value>
+  </data>
+  <data name="SimplifiedChinese.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="SimplifiedChinese.Text" xml:space="preserve">
+    <value>简体中文</value>
+  </data>
+  <data name="Hotkeys.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="Hotkeys.Text" xml:space="preserve">
+    <value>設定快捷鍵</value>
+  </data>
+  <metadata name="Description.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>122, 17</value>
+  </metadata>
+  <data name="O2_CancelAnimation.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="O2_CancelAnimation.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="O2_CancelAnimation.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="O2_CancelAnimation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>136, 100</value>
+  </data>
+  <data name="O2_CancelAnimation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>93, 25</value>
+  </data>
+  <data name="O2_CancelAnimation.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="O2_CancelAnimation.Text" xml:space="preserve">
+    <value>取消動畫</value>
+  </data>
+  <data name="O2_CancelAnimation.ToolTip" xml:space="preserve">
+    <value>將最後結果以.csv檔匯出</value>
+  </data>
+  <data name="&gt;&gt;O2_CancelAnimation.Name" xml:space="preserve">
+    <value>O2_CancelAnimation</value>
+  </data>
+  <data name="&gt;&gt;O2_CancelAnimation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O2_CancelAnimation.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O2_CancelAnimation.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="O2_ShowHistory.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="O2_ShowHistory.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="O2_ShowHistory.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="O2_ShowHistory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 100</value>
+  </data>
+  <data name="O2_ShowHistory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>93, 25</value>
+  </data>
+  <data name="O2_ShowHistory.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="O2_ShowHistory.Text" xml:space="preserve">
+    <value>顯示歷史</value>
+  </data>
+  <data name="O2_ShowHistory.ToolTip" xml:space="preserve">
+    <value>將最後結果以.csv檔匯出</value>
+  </data>
+  <data name="&gt;&gt;O2_ShowHistory.Name" xml:space="preserve">
+    <value>O2_ShowHistory</value>
+  </data>
+  <data name="&gt;&gt;O2_ShowHistory.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O2_ShowHistory.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O2_ShowHistory.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="O2_Emphasize.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="O2_Emphasize.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="O2_Emphasize.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="O2_Emphasize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>333, 100</value>
+  </data>
+  <data name="O2_Emphasize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>93, 25</value>
+  </data>
+  <data name="O2_Emphasize.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="O2_Emphasize.Text" xml:space="preserve">
+    <value>更加強調</value>
+  </data>
+  <data name="O2_Emphasize.ToolTip" xml:space="preserve">
+    <value>將最後結果以.csv檔匯出</value>
+  </data>
+  <data name="&gt;&gt;O2_Emphasize.Name" xml:space="preserve">
+    <value>O2_Emphasize</value>
+  </data>
+  <data name="&gt;&gt;O2_Emphasize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O2_Emphasize.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O2_Emphasize.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="G_NameL9.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G_NameL9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 9pt, style=Bold</value>
+  </data>
+  <data name="G_NameL9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="G_NameL9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>410, 185</value>
+  </data>
+  <data name="G_NameL9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 16</value>
+  </data>
+  <data name="G_NameL9.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="G_NameL9.Text" xml:space="preserve">
+    <value>較長</value>
+  </data>
+  <data name="&gt;&gt;G_NameL9.Name" xml:space="preserve">
+    <value>G_NameL9</value>
+  </data>
+  <data name="&gt;&gt;G_NameL9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NameL9.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G_NameL9.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="G_NameL8.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G_NameL8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 9pt, style=Bold</value>
+  </data>
+  <data name="G_NameL8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="G_NameL8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>315, 185</value>
+  </data>
+  <data name="G_NameL8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 16</value>
+  </data>
+  <data name="G_NameL8.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="G_NameL8.Text" xml:space="preserve">
+    <value>較短</value>
+  </data>
+  <data name="&gt;&gt;G_NameL8.Name" xml:space="preserve">
+    <value>G_NameL8</value>
+  </data>
+  <data name="&gt;&gt;G_NameL8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NameL8.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G_NameL8.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="G2_Length.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="G2_Length.Location" type="System.Drawing.Point, System.Drawing">
+    <value>308, 151</value>
+  </data>
+  <data name="G2_Length.Size" type="System.Drawing.Size, System.Drawing">
+    <value>133, 45</value>
+  </data>
+  <data name="G2_Length.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;G2_Length.Name" xml:space="preserve">
+    <value>G2_Length</value>
+  </data>
+  <data name="&gt;&gt;G2_Length.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G2_Length.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G2_Length.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="G_NameL7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G_NameL7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="G_NameL7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="G_NameL7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 151</value>
+  </data>
+  <data name="G_NameL7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 21</value>
+  </data>
+  <data name="G_NameL7.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="G_NameL7.Text" xml:space="preserve">
+    <value>尺寸:</value>
+  </data>
+  <data name="&gt;&gt;G_NameL7.Name" xml:space="preserve">
+    <value>G_NameL7</value>
+  </data>
+  <data name="&gt;&gt;G_NameL7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NameL7.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G_NameL7.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="G_NameL6.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G_NameL6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 9pt, style=Bold</value>
+  </data>
+  <data name="G_NameL6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>422, 92</value>
+  </data>
+  <data name="G_NameL6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>19, 16</value>
+  </data>
+  <data name="G_NameL6.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="G_NameL6.Text" xml:space="preserve">
+    <value>高</value>
+  </data>
+  <data name="&gt;&gt;G_NameL6.Name" xml:space="preserve">
+    <value>G_NameL6</value>
+  </data>
+  <data name="&gt;&gt;G_NameL6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NameL6.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G_NameL6.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="G_NameL5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G_NameL5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 9pt, style=Bold</value>
+  </data>
+  <data name="G_NameL5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="G_NameL5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>315, 92</value>
+  </data>
+  <data name="G_NameL5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>19, 16</value>
+  </data>
+  <data name="G_NameL5.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="G_NameL5.Text" xml:space="preserve">
+    <value>低</value>
+  </data>
+  <data name="&gt;&gt;G_NameL5.Name" xml:space="preserve">
+    <value>G_NameL5</value>
+  </data>
+  <data name="&gt;&gt;G_NameL5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NameL5.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G_NameL5.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="G2_Rarity.Location" type="System.Drawing.Point, System.Drawing">
+    <value>308, 103</value>
+  </data>
+  <data name="G2_Rarity.Size" type="System.Drawing.Size, System.Drawing">
+    <value>133, 45</value>
+  </data>
+  <data name="G2_Rarity.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;G2_Rarity.Name" xml:space="preserve">
+    <value>G2_Rarity</value>
+  </data>
+  <data name="&gt;&gt;G2_Rarity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G2_Rarity.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G2_Rarity.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="G_NameL4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G_NameL4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="G_NameL4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="G_NameL4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 106</value>
+  </data>
+  <data name="G_NameL4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 21</value>
+  </data>
+  <data name="G_NameL4.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="G_NameL4.Text" xml:space="preserve">
+    <value>稀有度:</value>
+  </data>
+  <data name="&gt;&gt;G_NameL4.Name" xml:space="preserve">
+    <value>G_NameL4</value>
+  </data>
+  <data name="&gt;&gt;G_NameL4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NameL4.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G_NameL4.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="G2_Themes.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="G2_Themes.HorizontalScrollbar" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G2_Themes.Items" xml:space="preserve">
+    <value>宗教的</value>
+  </data>
+  <data name="G2_Themes.Items1" xml:space="preserve">
+    <value>奇幻的</value>
+  </data>
+  <data name="G2_Themes.Items2" xml:space="preserve">
+    <value>現代的</value>
+  </data>
+  <data name="G2_Themes.Items3" xml:space="preserve">
+    <value>科幻的</value>
+  </data>
+  <data name="G2_Themes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 147</value>
+  </data>
+  <data name="G2_Themes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 76</value>
+  </data>
+  <data name="G2_Themes.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;G2_Themes.Name" xml:space="preserve">
+    <value>G2_Themes</value>
+  </data>
+  <data name="&gt;&gt;G2_Themes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckedListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G2_Themes.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G2_Themes.ZOrder" xml:space="preserve">
     <value>8</value>
+  </data>
+  <data name="G_NameL3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G_NameL3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="G_NameL3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="G_NameL3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>49, 151</value>
+  </data>
+  <data name="G_NameL3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 21</value>
+  </data>
+  <data name="G_NameL3.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="G_NameL3.Text" xml:space="preserve">
+    <value>主題:</value>
+  </data>
+  <data name="&gt;&gt;G_NameL3.Name" xml:space="preserve">
+    <value>G_NameL3</value>
+  </data>
+  <data name="&gt;&gt;G_NameL3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NameL3.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G_NameL3.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="G2_Demend.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="G2_Demend.Items" xml:space="preserve">
+    <value>只有姓氏</value>
+  </data>
+  <data name="G2_Demend.Items1" xml:space="preserve">
+    <value>只有名字</value>
+  </data>
+  <data name="G2_Demend.Items2" xml:space="preserve">
+    <value>完整姓名</value>
+  </data>
+  <data name="G2_Demend.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 104</value>
+  </data>
+  <data name="G2_Demend.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 29</value>
+  </data>
+  <data name="G2_Demend.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="G2_Demend.Text" xml:space="preserve">
+    <value>只有姓氏</value>
+  </data>
+  <data name="&gt;&gt;G2_Demend.Name" xml:space="preserve">
+    <value>G2_Demend</value>
+  </data>
+  <data name="&gt;&gt;G2_Demend.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G2_Demend.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G2_Demend.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="G_NameL2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G_NameL2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="G_NameL2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="G_NameL2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>49, 107</value>
+  </data>
+  <data name="G_NameL2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 21</value>
+  </data>
+  <data name="G_NameL2.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="G_NameL2.Text" xml:space="preserve">
+    <value>需求:</value>
+  </data>
+  <data name="&gt;&gt;G_NameL2.Name" xml:space="preserve">
+    <value>G_NameL2</value>
+  </data>
+  <data name="&gt;&gt;G_NameL2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NameL2.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G_NameL2.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="G3_Unisex.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G3_Unisex.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="G3_Unisex.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="G3_Unisex.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 61</value>
+  </data>
+  <data name="G3_Unisex.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 25</value>
+  </data>
+  <data name="G3_Unisex.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="G3_Unisex.Text" xml:space="preserve">
+    <value>中性的</value>
+  </data>
+  <data name="&gt;&gt;G3_Unisex.Name" xml:space="preserve">
+    <value>G3_Unisex</value>
+  </data>
+  <data name="&gt;&gt;G3_Unisex.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G3_Unisex.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G3_Unisex.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="G2_Feminine.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G2_Feminine.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="G2_Feminine.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="G2_Feminine.Location" type="System.Drawing.Point, System.Drawing">
+    <value>191, 61</value>
+  </data>
+  <data name="G2_Feminine.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 25</value>
+  </data>
+  <data name="G2_Feminine.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="G2_Feminine.Text" xml:space="preserve">
+    <value>雌性的</value>
+  </data>
+  <data name="&gt;&gt;G2_Feminine.Name" xml:space="preserve">
+    <value>G2_Feminine</value>
+  </data>
+  <data name="&gt;&gt;G2_Feminine.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G2_Feminine.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G2_Feminine.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="G2_Masculine.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G2_Masculine.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="G2_Masculine.Location" type="System.Drawing.Point, System.Drawing">
+    <value>109, 61</value>
+  </data>
+  <data name="G2_Masculine.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 25</value>
+  </data>
+  <data name="G2_Masculine.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="G2_Masculine.Text" xml:space="preserve">
+    <value>雄性的</value>
+  </data>
+  <data name="&gt;&gt;G2_Masculine.Name" xml:space="preserve">
+    <value>G2_Masculine</value>
+  </data>
+  <data name="&gt;&gt;G2_Masculine.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G2_Masculine.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G2_Masculine.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="G_NameL1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G_NameL1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="G_NameL1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="G_NameL1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>49, 63</value>
+  </data>
+  <data name="G_NameL1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 21</value>
+  </data>
+  <data name="G_NameL1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="G_NameL1.Text" xml:space="preserve">
+    <value>偏好:</value>
+  </data>
+  <data name="&gt;&gt;G_NameL1.Name" xml:space="preserve">
+    <value>G_NameL1</value>
+  </data>
+  <data name="&gt;&gt;G_NameL1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NameL1.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G_NameL1.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="G_NameTitle.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="G_NameTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 15.75pt, style=Bold</value>
+  </data>
+  <data name="G_NameTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="G_NameTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 14</value>
+  </data>
+  <data name="G_NameTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>159, 26</value>
+  </data>
+  <data name="G_NameTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="G_NameTitle.Text" xml:space="preserve">
+    <value>隨機名字產生器</value>
+  </data>
+  <data name="&gt;&gt;G_NameTitle.Name" xml:space="preserve">
+    <value>G_NameTitle</value>
+  </data>
+  <data name="&gt;&gt;G_NameTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;G_NameTitle.Parent" xml:space="preserve">
+    <value>G_ModeName</value>
+  </data>
+  <data name="&gt;&gt;G_NameTitle.ZOrder" xml:space="preserve">
+    <value>16</value>
   </data>
   <data name="G_ModeName.Location" type="System.Drawing.Point, System.Drawing">
     <value>176, 81</value>
@@ -1450,7 +2785,656 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;G_ModeName.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL2.Name" xml:space="preserve">
+    <value>O_PresentationL2</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL2.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;O2_RMultiple.Name" xml:space="preserve">
+    <value>O2_RMultiple</value>
+  </data>
+  <data name="&gt;&gt;O2_RMultiple.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O2_RMultiple.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O2_RMultiple.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;O2_RSingle.Name" xml:space="preserve">
+    <value>O2_RSingle</value>
+  </data>
+  <data name="&gt;&gt;O2_RSingle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O2_RSingle.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O2_RSingle.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;O2_Fullscreen.Name" xml:space="preserve">
+    <value>O2_Fullscreen</value>
+  </data>
+  <data name="&gt;&gt;O2_Fullscreen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O2_Fullscreen.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O2_Fullscreen.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL1.Name" xml:space="preserve">
+    <value>O_PresentationL1</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL1.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL3.Name" xml:space="preserve">
+    <value>O_PresentationL3</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL3.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL3.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;O2_Generate.Name" xml:space="preserve">
+    <value>O2_Generate</value>
+  </data>
+  <data name="&gt;&gt;O2_Generate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O2_Generate.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O2_Generate.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationTitle.Name" xml:space="preserve">
+    <value>O_PresentationTitle</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationTitle.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationTitle.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="O_ModePresentation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>177, 320</value>
+  </data>
+  <data name="O_ModePresentation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>556, 136</value>
+  </data>
+  <data name="O_ModePresentation.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="O_ModePresentation.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;O_ModePresentation.Name" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O_ModePresentation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ModePresentation.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;O_ModePresentation.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="O_PresentationL2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="O_PresentationL2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 8.25pt, style=Bold</value>
+  </data>
+  <data name="O_PresentationL2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="O_PresentationL2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>325, 63</value>
+  </data>
+  <data name="O_PresentationL2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 15</value>
+  </data>
+  <data name="O_PresentationL2.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="O_PresentationL2.Text" xml:space="preserve">
+    <value>(預設快捷鍵: R)</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL2.Name" xml:space="preserve">
+    <value>O_PresentationL2</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL2.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="O2_RMultiple.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="O2_RMultiple.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="O2_RMultiple.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="O2_RMultiple.Location" type="System.Drawing.Point, System.Drawing">
+    <value>232, 56</value>
+  </data>
+  <data name="O2_RMultiple.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 25</value>
+  </data>
+  <data name="O2_RMultiple.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="O2_RMultiple.Text" xml:space="preserve">
+    <value>快速模式</value>
+  </data>
+  <data name="&gt;&gt;O2_RMultiple.Name" xml:space="preserve">
+    <value>O2_RMultiple</value>
+  </data>
+  <data name="&gt;&gt;O2_RMultiple.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O2_RMultiple.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O2_RMultiple.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="O2_RSingle.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="O2_RSingle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="O2_RSingle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>136, 56</value>
+  </data>
+  <data name="O2_RSingle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 25</value>
+  </data>
+  <data name="O2_RSingle.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="O2_RSingle.Text" xml:space="preserve">
+    <value>個別揭露</value>
+  </data>
+  <data name="&gt;&gt;O2_RSingle.Name" xml:space="preserve">
+    <value>O2_RSingle</value>
+  </data>
+  <data name="&gt;&gt;O2_RSingle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O2_RSingle.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O2_RSingle.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="O2_Fullscreen.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 9pt, style=Bold</value>
+  </data>
+  <data name="O2_Fullscreen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>464, 97</value>
+  </data>
+  <data name="O2_Fullscreen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 25</value>
+  </data>
+  <data name="O2_Fullscreen.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="O2_Fullscreen.Text" xml:space="preserve">
+    <value>全螢幕模式</value>
+  </data>
+  <data name="&gt;&gt;O2_Fullscreen.Name" xml:space="preserve">
+    <value>O2_Fullscreen</value>
+  </data>
+  <data name="&gt;&gt;O2_Fullscreen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O2_Fullscreen.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O2_Fullscreen.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="O_PresentationL1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="O_PresentationL1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="O_PresentationL1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="O_PresentationL1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>49, 58</value>
+  </data>
+  <data name="O_PresentationL1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 21</value>
+  </data>
+  <data name="O_PresentationL1.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="O_PresentationL1.Text" xml:space="preserve">
+    <value>互動方式:</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL1.Name" xml:space="preserve">
+    <value>O_PresentationL1</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL1.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="O_PresentationL3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="O_PresentationL3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="O_PresentationL3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="O_PresentationL3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>49, 101</value>
+  </data>
+  <data name="O_PresentationL3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 21</value>
+  </data>
+  <data name="O_PresentationL3.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="O_PresentationL3.Text" xml:space="preserve">
+    <value>其他選項:</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL3.Name" xml:space="preserve">
+    <value>O_PresentationL3</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL3.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationL3.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="O2_Generate.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 15.75pt, style=Bold</value>
+  </data>
+  <data name="O2_Generate.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="O2_Generate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>464, 23</value>
+  </data>
+  <data name="O2_Generate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 60</value>
+  </data>
+  <data name="O2_Generate.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="O2_Generate.Text" xml:space="preserve">
+    <value>進行展示</value>
+  </data>
+  <data name="&gt;&gt;O2_Generate.Name" xml:space="preserve">
+    <value>O2_Generate</value>
+  </data>
+  <data name="&gt;&gt;O2_Generate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O2_Generate.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O2_Generate.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="O_PresentationTitle.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="O_PresentationTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 15.75pt, style=Bold</value>
+  </data>
+  <data name="O_PresentationTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="O_PresentationTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 15</value>
+  </data>
+  <data name="O_PresentationTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 26</value>
+  </data>
+  <data name="O_PresentationTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="O_PresentationTitle.Text" xml:space="preserve">
+    <value>展示模式</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationTitle.Name" xml:space="preserve">
+    <value>O_PresentationTitle</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationTitle.Parent" xml:space="preserve">
+    <value>O_ModePresentation</value>
+  </data>
+  <data name="&gt;&gt;O_PresentationTitle.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL2.Name" xml:space="preserve">
+    <value>O_ComplementaryL2</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL2.Parent" xml:space="preserve">
+    <value>O_ModeComplementary</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL1.Name" xml:space="preserve">
+    <value>O_ComplementaryL1</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL1.Parent" xml:space="preserve">
+    <value>O_ModeComplementary</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;O3_Clipboard.Name" xml:space="preserve">
+    <value>O3_Clipboard</value>
+  </data>
+  <data name="&gt;&gt;O3_Clipboard.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O3_Clipboard.Parent" xml:space="preserve">
+    <value>O_ModeComplementary</value>
+  </data>
+  <data name="&gt;&gt;O3_Clipboard.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;O3_EntryBox.Name" xml:space="preserve">
+    <value>O3_EntryBox</value>
+  </data>
+  <data name="&gt;&gt;O3_EntryBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O3_EntryBox.Parent" xml:space="preserve">
+    <value>O_ModeComplementary</value>
+  </data>
+  <data name="&gt;&gt;O3_EntryBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;O3_Insert.Name" xml:space="preserve">
+    <value>O3_Insert</value>
+  </data>
+  <data name="&gt;&gt;O3_Insert.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O3_Insert.Parent" xml:space="preserve">
+    <value>O_ModeComplementary</value>
+  </data>
+  <data name="&gt;&gt;O3_Insert.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryTitle.Name" xml:space="preserve">
+    <value>O_ComplementaryTitle</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryTitle.Parent" xml:space="preserve">
+    <value>O_ModeComplementary</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryTitle.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="O_ModeComplementary.Location" type="System.Drawing.Point, System.Drawing">
+    <value>177, 320</value>
+  </data>
+  <data name="O_ModeComplementary.Size" type="System.Drawing.Size, System.Drawing">
+    <value>556, 136</value>
+  </data>
+  <data name="O_ModeComplementary.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="&gt;&gt;O_ModeComplementary.Name" xml:space="preserve">
+    <value>O_ModeComplementary</value>
+  </data>
+  <data name="&gt;&gt;O_ModeComplementary.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ModeComplementary.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;O_ModeComplementary.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="O_ComplementaryL2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="O_ComplementaryL2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 9pt, style=Bold</value>
+  </data>
+  <data name="O_ComplementaryL2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="O_ComplementaryL2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 85</value>
+  </data>
+  <data name="O_ComplementaryL2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 32</value>
+  </data>
+  <data name="O_ComplementaryL2.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="O_ComplementaryL2.Text" xml:space="preserve">
+    <value>使用{{result_i}}來插入
+結果，其中i為生成編號</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL2.Name" xml:space="preserve">
+    <value>O_ComplementaryL2</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL2.Parent" xml:space="preserve">
+    <value>O_ModeComplementary</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="O_ComplementaryL1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="O_ComplementaryL1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 9pt, style=Bold</value>
+  </data>
+  <data name="O_ComplementaryL1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 56</value>
+  </data>
+  <data name="O_ComplementaryL1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 16</value>
+  </data>
+  <data name="O_ComplementaryL1.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="O_ComplementaryL1.Text" xml:space="preserve">
+    <value>格式說明:</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL1.Name" xml:space="preserve">
+    <value>O_ComplementaryL1</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL1.Parent" xml:space="preserve">
+    <value>O_ModeComplementary</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryL1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="O3_Clipboard.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="O3_Clipboard.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="O3_Clipboard.Location" type="System.Drawing.Point, System.Drawing">
+    <value>427, 80</value>
+  </data>
+  <data name="O3_Clipboard.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 42</value>
+  </data>
+  <data name="O3_Clipboard.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="O3_Clipboard.Text" xml:space="preserve">
+    <value>複製至剪貼簿</value>
+  </data>
+  <data name="&gt;&gt;O3_Clipboard.Name" xml:space="preserve">
+    <value>O3_Clipboard</value>
+  </data>
+  <data name="&gt;&gt;O3_Clipboard.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O3_Clipboard.Parent" xml:space="preserve">
+    <value>O_ModeComplementary</value>
+  </data>
+  <data name="&gt;&gt;O3_Clipboard.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="O3_EntryBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 9.75pt</value>
+  </data>
+  <data name="O3_EntryBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>141, 11</value>
+  </data>
+  <data name="O3_EntryBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>275, 118</value>
+  </data>
+  <data name="O3_EntryBox.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="O3_EntryBox.Text" xml:space="preserve">
+    <value>在此輸入文字...</value>
+  </data>
+  <data name="&gt;&gt;O3_EntryBox.Name" xml:space="preserve">
+    <value>O3_EntryBox</value>
+  </data>
+  <data name="&gt;&gt;O3_EntryBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O3_EntryBox.Parent" xml:space="preserve">
+    <value>O_ModeComplementary</value>
+  </data>
+  <data name="&gt;&gt;O3_EntryBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="O3_Insert.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 12pt, style=Bold</value>
+  </data>
+  <data name="O3_Insert.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="O3_Insert.Location" type="System.Drawing.Point, System.Drawing">
+    <value>427, 15</value>
+  </data>
+  <data name="O3_Insert.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 42</value>
+  </data>
+  <data name="O3_Insert.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="O3_Insert.Text" xml:space="preserve">
+    <value>插入生成結果</value>
+  </data>
+  <data name="&gt;&gt;O3_Insert.Name" xml:space="preserve">
+    <value>O3_Insert</value>
+  </data>
+  <data name="&gt;&gt;O3_Insert.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O3_Insert.Parent" xml:space="preserve">
+    <value>O_ModeComplementary</value>
+  </data>
+  <data name="&gt;&gt;O3_Insert.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="O_ComplementaryTitle.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="O_ComplementaryTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微軟正黑體, 15.75pt, style=Bold</value>
+  </data>
+  <data name="O_ComplementaryTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="O_ComplementaryTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 15</value>
+  </data>
+  <data name="O_ComplementaryTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 26</value>
+  </data>
+  <data name="O_ComplementaryTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="O_ComplementaryTitle.Text" xml:space="preserve">
+    <value>填充模式</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryTitle.Name" xml:space="preserve">
+    <value>O_ComplementaryTitle</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryTitle.Parent" xml:space="preserve">
+    <value>O_ModeComplementary</value>
+  </data>
+  <data name="&gt;&gt;O_ComplementaryTitle.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -1754,29 +3738,101 @@
   <data name="$this.Text" xml:space="preserve">
     <value>Ranza</value>
   </data>
+  <data name="&gt;&gt;General.Name" xml:space="preserve">
+    <value>General</value>
+  </data>
+  <data name="&gt;&gt;General.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Contact.Name" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="&gt;&gt;Contact.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Options.Name" xml:space="preserve">
+    <value>Options</value>
+  </data>
+  <data name="&gt;&gt;Options.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SaveConfig.Name" xml:space="preserve">
+    <value>SaveConfig</value>
+  </data>
+  <data name="&gt;&gt;SaveConfig.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LoadConfig.Name" xml:space="preserve">
+    <value>LoadConfig</value>
+  </data>
+  <data name="&gt;&gt;LoadConfig.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Reset.Name" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="&gt;&gt;Reset.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Windows.Name" xml:space="preserve">
+    <value>Windows</value>
+  </data>
+  <data name="&gt;&gt;Windows.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SystemLog.Name" xml:space="preserve">
+    <value>SystemLog</value>
+  </data>
+  <data name="&gt;&gt;SystemLog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;UserManual.Name" xml:space="preserve">
+    <value>UserManual</value>
+  </data>
+  <data name="&gt;&gt;UserManual.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Settings.Name" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="&gt;&gt;Settings.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ChangeLanguage.Name" xml:space="preserve">
+    <value>ChangeLanguage</value>
+  </data>
+  <data name="&gt;&gt;ChangeLanguage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;English.Name" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="&gt;&gt;English.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TraditionalChinese.Name" xml:space="preserve">
+    <value>TraditionalChinese</value>
+  </data>
+  <data name="&gt;&gt;TraditionalChinese.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SimplifiedChinese.Name" xml:space="preserve">
+    <value>SimplifiedChinese</value>
+  </data>
+  <data name="&gt;&gt;SimplifiedChinese.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Hotkeys.Name" xml:space="preserve">
+    <value>Hotkeys</value>
+  </data>
+  <data name="&gt;&gt;Hotkeys.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="&gt;&gt;Description.Name" xml:space="preserve">
     <value>Description</value>
   </data>
   <data name="&gt;&gt;Description.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;紀錄視窗ToolStripMenuItem.Name" xml:space="preserve">
-    <value>紀錄視窗ToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;紀錄視窗ToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;使用說明ToolStripMenuItem.Name" xml:space="preserve">
-    <value>使用說明ToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;使用說明ToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;儲存當前設定ToolStripMenuItem.Name" xml:space="preserve">
-    <value>儲存當前設定ToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;儲存當前設定ToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>MainForm</value>

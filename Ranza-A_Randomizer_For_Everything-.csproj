@@ -82,6 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Concept Arts\Ideas.txt" />
+    <None Include="Resources\LogoWithTitle.png" />
     <None Include="Resources\Avatar_Be.png" />
   </ItemGroup>
   <ItemGroup>

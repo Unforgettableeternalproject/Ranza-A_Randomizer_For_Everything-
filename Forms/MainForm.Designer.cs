@@ -31,6 +31,8 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.G_ModeNumeric = new System.Windows.Forms.Panel();
+            this.G_NumericL7 = new System.Windows.Forms.Label();
+            this.G_NumericRegex = new System.Windows.Forms.TextBox();
             this.G1_AllowRegex = new System.Windows.Forms.CheckBox();
             this.G_NumericL6 = new System.Windows.Forms.Label();
             this.G_NumericMultiple = new System.Windows.Forms.TextBox();
@@ -55,36 +57,92 @@
             this.Presentation = new System.Windows.Forms.Button();
             this.Export = new System.Windows.Forms.Button();
             this.Display = new System.Windows.Forms.Label();
-            this.FileAccess = new System.Windows.Forms.Panel();
+            this.Functions = new System.Windows.Forms.Panel();
+            this.F_Clear = new System.Windows.Forms.Button();
+            this.F_OpenFolder = new System.Windows.Forms.Button();
+            this.F_Randomize = new System.Windows.Forms.Button();
+            this.FunctionLabel = new System.Windows.Forms.Label();
             this.O_ModeExport = new System.Windows.Forms.Panel();
+            this.O1_Generate = new System.Windows.Forms.Button();
+            this.O1_Tabular = new System.Windows.Forms.CheckBox();
+            this.O1_SecondRandom = new System.Windows.Forms.CheckBox();
+            this.O_ExportL3 = new System.Windows.Forms.Label();
+            this.O1_Unique = new System.Windows.Forms.CheckBox();
+            this.O_ExportBatchSize = new System.Windows.Forms.TextBox();
+            this.O_ExportL2 = new System.Windows.Forms.Label();
+            this.O_ExportBatch = new System.Windows.Forms.TextBox();
+            this.O_ExportL1 = new System.Windows.Forms.Label();
+            this.O_ExportTitle = new System.Windows.Forms.Label();
             this.Signature = new System.Windows.Forms.Panel();
             this.BernieName = new System.Windows.Forms.Label();
             this.Bernie = new System.Windows.Forms.Button();
             this.Title = new System.Windows.Forms.Panel();
             this.MenuBar = new System.Windows.Forms.MenuStrip();
+            this.General = new System.Windows.Forms.ToolStripMenuItem();
+            this.Contact = new System.Windows.Forms.ToolStripMenuItem();
+            this.Options = new System.Windows.Forms.ToolStripMenuItem();
+            this.SaveConfig = new System.Windows.Forms.ToolStripMenuItem();
+            this.LoadConfig = new System.Windows.Forms.ToolStripMenuItem();
+            this.Reset = new System.Windows.Forms.ToolStripMenuItem();
+            this.Windows = new System.Windows.Forms.ToolStripMenuItem();
+            this.SystemLog = new System.Windows.Forms.ToolStripMenuItem();
+            this.UserManual = new System.Windows.Forms.ToolStripMenuItem();
+            this.Settings = new System.Windows.Forms.ToolStripMenuItem();
+            this.ChangeLanguage = new System.Windows.Forms.ToolStripMenuItem();
+            this.English = new System.Windows.Forms.ToolStripMenuItem();
+            this.TraditionalChinese = new System.Windows.Forms.ToolStripMenuItem();
+            this.SimplifiedChinese = new System.Windows.Forms.ToolStripMenuItem();
+            this.Hotkeys = new System.Windows.Forms.ToolStripMenuItem();
             this.Description = new System.Windows.Forms.ToolTip(this.components);
+            this.O2_CancelAnimation = new System.Windows.Forms.CheckBox();
+            this.O2_ShowHistory = new System.Windows.Forms.CheckBox();
+            this.O2_Emphasize = new System.Windows.Forms.CheckBox();
             this.G_ModeName = new System.Windows.Forms.Panel();
-            this.G_NumericRegex = new System.Windows.Forms.TextBox();
-            this.G_NumericL7 = new System.Windows.Forms.Label();
-            this.O_ExportTitle = new System.Windows.Forms.Label();
-            this.O_ExportL1 = new System.Windows.Forms.Label();
-            this.O_ExportBatch = new System.Windows.Forms.TextBox();
-            this.O_ExportL2 = new System.Windows.Forms.Label();
-            this.O_ExportBatchSize = new System.Windows.Forms.TextBox();
-            this.O1_Unique = new System.Windows.Forms.CheckBox();
-            this.O_ExportL3 = new System.Windows.Forms.Label();
-            this.O1_SecondRandom = new System.Windows.Forms.CheckBox();
-            this.O1_Tabular = new System.Windows.Forms.CheckBox();
-            this.O1_Generate = new System.Windows.Forms.Button();
-            this.紀錄視窗ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.使用說明ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.儲存當前設定ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.O_ModePresentation = new System.Windows.Forms.Panel();
+            this.O_PresentationL2 = new System.Windows.Forms.Label();
+            this.O2_RMultiple = new System.Windows.Forms.RadioButton();
+            this.O2_RSingle = new System.Windows.Forms.RadioButton();
+            this.O2_Fullscreen = new System.Windows.Forms.Button();
+            this.O_PresentationL1 = new System.Windows.Forms.Label();
+            this.O_PresentationL3 = new System.Windows.Forms.Label();
+            this.O2_Generate = new System.Windows.Forms.Button();
+            this.O_PresentationTitle = new System.Windows.Forms.Label();
+            this.O_ModeComplementary = new System.Windows.Forms.Panel();
+            this.O_ComplementaryL2 = new System.Windows.Forms.Label();
+            this.O_ComplementaryL1 = new System.Windows.Forms.Label();
+            this.O3_Clipboard = new System.Windows.Forms.Button();
+            this.O3_EntryBox = new System.Windows.Forms.RichTextBox();
+            this.O3_Insert = new System.Windows.Forms.Button();
+            this.O_ComplementaryTitle = new System.Windows.Forms.Label();
+            this.G_NameTitle = new System.Windows.Forms.Label();
+            this.G_NameL1 = new System.Windows.Forms.Label();
+            this.G2_Masculine = new System.Windows.Forms.RadioButton();
+            this.G2_Feminine = new System.Windows.Forms.RadioButton();
+            this.G3_Unisex = new System.Windows.Forms.RadioButton();
+            this.G_NameL2 = new System.Windows.Forms.Label();
+            this.G2_Demend = new System.Windows.Forms.ComboBox();
+            this.G_NameL3 = new System.Windows.Forms.Label();
+            this.G2_Themes = new System.Windows.Forms.CheckedListBox();
+            this.G_NameL4 = new System.Windows.Forms.Label();
+            this.G2_Rarity = new System.Windows.Forms.TrackBar();
+            this.G_NameL6 = new System.Windows.Forms.Label();
+            this.G_NameL5 = new System.Windows.Forms.Label();
+            this.G_NameL7 = new System.Windows.Forms.Label();
+            this.G2_Length = new System.Windows.Forms.TrackBar();
+            this.G_NameL8 = new System.Windows.Forms.Label();
+            this.G_NameL9 = new System.Windows.Forms.Label();
             this.G_ModeNumeric.SuspendLayout();
             this.Generation.SuspendLayout();
             this.Output.SuspendLayout();
+            this.Functions.SuspendLayout();
             this.O_ModeExport.SuspendLayout();
             this.Signature.SuspendLayout();
             this.MenuBar.SuspendLayout();
+            this.G_ModeName.SuspendLayout();
+            this.O_ModePresentation.SuspendLayout();
+            this.O_ModeComplementary.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.G2_Rarity)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.G2_Length)).BeginInit();
             this.SuspendLayout();
             // 
             // G_ModeNumeric
@@ -103,10 +161,21 @@
             this.G_ModeNumeric.Controls.Add(this.G_NumericL2);
             this.G_ModeNumeric.Controls.Add(this.G_NumericRMax);
             this.G_ModeNumeric.Controls.Add(this.G_NumericRMin);
-            this.G_ModeNumeric.Controls.Add(this.G_NumericL1);
             this.G_ModeNumeric.Controls.Add(this.G_NumericTitle);
+            this.G_ModeNumeric.Controls.Add(this.G_NumericL1);
             resources.ApplyResources(this.G_ModeNumeric, "G_ModeNumeric");
             this.G_ModeNumeric.Name = "G_ModeNumeric";
+            // 
+            // G_NumericL7
+            // 
+            resources.ApplyResources(this.G_NumericL7, "G_NumericL7");
+            this.G_NumericL7.ForeColor = System.Drawing.SystemColors.ButtonShadow;
+            this.G_NumericL7.Name = "G_NumericL7";
+            // 
+            // G_NumericRegex
+            // 
+            resources.ApplyResources(this.G_NumericRegex, "G_NumericRegex");
+            this.G_NumericRegex.Name = "G_NumericRegex";
             // 
             // G1_AllowRegex
             // 
@@ -256,10 +325,37 @@
             resources.ApplyResources(this.Display, "Display");
             this.Display.Name = "Display";
             // 
-            // FileAccess
+            // Functions
             // 
-            resources.ApplyResources(this.FileAccess, "FileAccess");
-            this.FileAccess.Name = "FileAccess";
+            this.Functions.Controls.Add(this.F_Clear);
+            this.Functions.Controls.Add(this.F_OpenFolder);
+            this.Functions.Controls.Add(this.F_Randomize);
+            this.Functions.Controls.Add(this.FunctionLabel);
+            resources.ApplyResources(this.Functions, "Functions");
+            this.Functions.Name = "Functions";
+            // 
+            // F_Clear
+            // 
+            resources.ApplyResources(this.F_Clear, "F_Clear");
+            this.F_Clear.Name = "F_Clear";
+            this.F_Clear.UseVisualStyleBackColor = true;
+            // 
+            // F_OpenFolder
+            // 
+            resources.ApplyResources(this.F_OpenFolder, "F_OpenFolder");
+            this.F_OpenFolder.Name = "F_OpenFolder";
+            this.F_OpenFolder.UseVisualStyleBackColor = true;
+            // 
+            // F_Randomize
+            // 
+            resources.ApplyResources(this.F_Randomize, "F_Randomize");
+            this.F_Randomize.Name = "F_Randomize";
+            this.F_Randomize.UseVisualStyleBackColor = true;
+            // 
+            // FunctionLabel
+            // 
+            resources.ApplyResources(this.FunctionLabel, "FunctionLabel");
+            this.FunctionLabel.Name = "FunctionLabel";
             // 
             // O_ModeExport
             // 
@@ -275,6 +371,63 @@
             this.O_ModeExport.Controls.Add(this.O_ExportTitle);
             resources.ApplyResources(this.O_ModeExport, "O_ModeExport");
             this.O_ModeExport.Name = "O_ModeExport";
+            // 
+            // O1_Generate
+            // 
+            resources.ApplyResources(this.O1_Generate, "O1_Generate");
+            this.O1_Generate.Name = "O1_Generate";
+            this.O1_Generate.UseVisualStyleBackColor = true;
+            // 
+            // O1_Tabular
+            // 
+            resources.ApplyResources(this.O1_Tabular, "O1_Tabular");
+            this.O1_Tabular.Name = "O1_Tabular";
+            this.Description.SetToolTip(this.O1_Tabular, resources.GetString("O1_Tabular.ToolTip"));
+            this.O1_Tabular.UseVisualStyleBackColor = true;
+            // 
+            // O1_SecondRandom
+            // 
+            resources.ApplyResources(this.O1_SecondRandom, "O1_SecondRandom");
+            this.O1_SecondRandom.Name = "O1_SecondRandom";
+            this.Description.SetToolTip(this.O1_SecondRandom, resources.GetString("O1_SecondRandom.ToolTip"));
+            this.O1_SecondRandom.UseVisualStyleBackColor = true;
+            // 
+            // O_ExportL3
+            // 
+            resources.ApplyResources(this.O_ExportL3, "O_ExportL3");
+            this.O_ExportL3.Name = "O_ExportL3";
+            // 
+            // O1_Unique
+            // 
+            resources.ApplyResources(this.O1_Unique, "O1_Unique");
+            this.O1_Unique.Name = "O1_Unique";
+            this.Description.SetToolTip(this.O1_Unique, resources.GetString("O1_Unique.ToolTip"));
+            this.O1_Unique.UseVisualStyleBackColor = true;
+            // 
+            // O_ExportBatchSize
+            // 
+            resources.ApplyResources(this.O_ExportBatchSize, "O_ExportBatchSize");
+            this.O_ExportBatchSize.Name = "O_ExportBatchSize";
+            // 
+            // O_ExportL2
+            // 
+            resources.ApplyResources(this.O_ExportL2, "O_ExportL2");
+            this.O_ExportL2.Name = "O_ExportL2";
+            // 
+            // O_ExportBatch
+            // 
+            resources.ApplyResources(this.O_ExportBatch, "O_ExportBatch");
+            this.O_ExportBatch.Name = "O_ExportBatch";
+            // 
+            // O_ExportL1
+            // 
+            resources.ApplyResources(this.O_ExportL1, "O_ExportL1");
+            this.O_ExportL1.Name = "O_ExportL1";
+            // 
+            // O_ExportTitle
+            // 
+            resources.ApplyResources(this.O_ExportTitle, "O_ExportTitle");
+            this.O_ExportTitle.Name = "O_ExportTitle";
             // 
             // Signature
             // 
@@ -302,105 +455,364 @@
             // 
             // Title
             // 
+            this.Title.BackgroundImage = global::Ranza_A_Randomizer_For_Everything_.Properties.Resources.LogoWithTitle;
             resources.ApplyResources(this.Title, "Title");
             this.Title.Name = "Title";
             // 
             // MenuBar
             // 
             this.MenuBar.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.儲存當前設定ToolStripMenuItem,
-            this.紀錄視窗ToolStripMenuItem,
-            this.使用說明ToolStripMenuItem});
+            this.General,
+            this.Options,
+            this.Windows,
+            this.Settings});
             resources.ApplyResources(this.MenuBar, "MenuBar");
             this.MenuBar.Name = "MenuBar";
             // 
+            // General
+            // 
+            this.General.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.Contact});
+            this.General.Name = "General";
+            resources.ApplyResources(this.General, "General");
+            // 
+            // Contact
+            // 
+            this.Contact.Name = "Contact";
+            resources.ApplyResources(this.Contact, "Contact");
+            // 
+            // Options
+            // 
+            this.Options.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.SaveConfig,
+            this.LoadConfig,
+            this.Reset});
+            this.Options.Name = "Options";
+            resources.ApplyResources(this.Options, "Options");
+            // 
+            // SaveConfig
+            // 
+            this.SaveConfig.Name = "SaveConfig";
+            resources.ApplyResources(this.SaveConfig, "SaveConfig");
+            // 
+            // LoadConfig
+            // 
+            this.LoadConfig.Name = "LoadConfig";
+            resources.ApplyResources(this.LoadConfig, "LoadConfig");
+            // 
+            // Reset
+            // 
+            resources.ApplyResources(this.Reset, "Reset");
+            this.Reset.ForeColor = System.Drawing.Color.Firebrick;
+            this.Reset.Name = "Reset";
+            // 
+            // Windows
+            // 
+            this.Windows.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.SystemLog,
+            this.UserManual});
+            this.Windows.Name = "Windows";
+            resources.ApplyResources(this.Windows, "Windows");
+            // 
+            // SystemLog
+            // 
+            this.SystemLog.Name = "SystemLog";
+            resources.ApplyResources(this.SystemLog, "SystemLog");
+            // 
+            // UserManual
+            // 
+            this.UserManual.Name = "UserManual";
+            resources.ApplyResources(this.UserManual, "UserManual");
+            // 
+            // Settings
+            // 
+            this.Settings.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.ChangeLanguage,
+            this.Hotkeys});
+            this.Settings.Name = "Settings";
+            resources.ApplyResources(this.Settings, "Settings");
+            // 
+            // ChangeLanguage
+            // 
+            this.ChangeLanguage.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.English,
+            this.TraditionalChinese,
+            this.SimplifiedChinese});
+            this.ChangeLanguage.Name = "ChangeLanguage";
+            resources.ApplyResources(this.ChangeLanguage, "ChangeLanguage");
+            // 
+            // English
+            // 
+            this.English.Name = "English";
+            resources.ApplyResources(this.English, "English");
+            // 
+            // TraditionalChinese
+            // 
+            this.TraditionalChinese.Name = "TraditionalChinese";
+            resources.ApplyResources(this.TraditionalChinese, "TraditionalChinese");
+            // 
+            // SimplifiedChinese
+            // 
+            this.SimplifiedChinese.Name = "SimplifiedChinese";
+            resources.ApplyResources(this.SimplifiedChinese, "SimplifiedChinese");
+            // 
+            // Hotkeys
+            // 
+            this.Hotkeys.Name = "Hotkeys";
+            resources.ApplyResources(this.Hotkeys, "Hotkeys");
+            // 
+            // O2_CancelAnimation
+            // 
+            resources.ApplyResources(this.O2_CancelAnimation, "O2_CancelAnimation");
+            this.O2_CancelAnimation.Name = "O2_CancelAnimation";
+            this.Description.SetToolTip(this.O2_CancelAnimation, resources.GetString("O2_CancelAnimation.ToolTip"));
+            this.O2_CancelAnimation.UseVisualStyleBackColor = true;
+            // 
+            // O2_ShowHistory
+            // 
+            resources.ApplyResources(this.O2_ShowHistory, "O2_ShowHistory");
+            this.O2_ShowHistory.Name = "O2_ShowHistory";
+            this.Description.SetToolTip(this.O2_ShowHistory, resources.GetString("O2_ShowHistory.ToolTip"));
+            this.O2_ShowHistory.UseVisualStyleBackColor = true;
+            // 
+            // O2_Emphasize
+            // 
+            resources.ApplyResources(this.O2_Emphasize, "O2_Emphasize");
+            this.O2_Emphasize.Name = "O2_Emphasize";
+            this.Description.SetToolTip(this.O2_Emphasize, resources.GetString("O2_Emphasize.ToolTip"));
+            this.O2_Emphasize.UseVisualStyleBackColor = true;
+            // 
             // G_ModeName
             // 
+            this.G_ModeName.Controls.Add(this.G_NameL9);
+            this.G_ModeName.Controls.Add(this.G_NameL8);
+            this.G_ModeName.Controls.Add(this.G2_Length);
+            this.G_ModeName.Controls.Add(this.G_NameL7);
+            this.G_ModeName.Controls.Add(this.G_NameL6);
+            this.G_ModeName.Controls.Add(this.G_NameL5);
+            this.G_ModeName.Controls.Add(this.G2_Rarity);
+            this.G_ModeName.Controls.Add(this.G_NameL4);
+            this.G_ModeName.Controls.Add(this.G2_Themes);
+            this.G_ModeName.Controls.Add(this.G_NameL3);
+            this.G_ModeName.Controls.Add(this.G2_Demend);
+            this.G_ModeName.Controls.Add(this.G_NameL2);
+            this.G_ModeName.Controls.Add(this.G3_Unisex);
+            this.G_ModeName.Controls.Add(this.G2_Feminine);
+            this.G_ModeName.Controls.Add(this.G2_Masculine);
+            this.G_ModeName.Controls.Add(this.G_NameL1);
+            this.G_ModeName.Controls.Add(this.G_NameTitle);
             resources.ApplyResources(this.G_ModeName, "G_ModeName");
             this.G_ModeName.Name = "G_ModeName";
             // 
-            // G_NumericRegex
+            // O_ModePresentation
             // 
-            resources.ApplyResources(this.G_NumericRegex, "G_NumericRegex");
-            this.G_NumericRegex.Name = "G_NumericRegex";
+            this.O_ModePresentation.Controls.Add(this.O_PresentationL2);
+            this.O_ModePresentation.Controls.Add(this.O2_Emphasize);
+            this.O_ModePresentation.Controls.Add(this.O2_RMultiple);
+            this.O_ModePresentation.Controls.Add(this.O2_RSingle);
+            this.O_ModePresentation.Controls.Add(this.O2_Fullscreen);
+            this.O_ModePresentation.Controls.Add(this.O_PresentationL1);
+            this.O_ModePresentation.Controls.Add(this.O2_ShowHistory);
+            this.O_ModePresentation.Controls.Add(this.O2_CancelAnimation);
+            this.O_ModePresentation.Controls.Add(this.O_PresentationL3);
+            this.O_ModePresentation.Controls.Add(this.O2_Generate);
+            this.O_ModePresentation.Controls.Add(this.O_PresentationTitle);
+            resources.ApplyResources(this.O_ModePresentation, "O_ModePresentation");
+            this.O_ModePresentation.Name = "O_ModePresentation";
             // 
-            // G_NumericL7
+            // O_PresentationL2
             // 
-            resources.ApplyResources(this.G_NumericL7, "G_NumericL7");
-            this.G_NumericL7.ForeColor = System.Drawing.SystemColors.ButtonShadow;
-            this.G_NumericL7.Name = "G_NumericL7";
+            resources.ApplyResources(this.O_PresentationL2, "O_PresentationL2");
+            this.O_PresentationL2.ForeColor = System.Drawing.SystemColors.ButtonShadow;
+            this.O_PresentationL2.Name = "O_PresentationL2";
             // 
-            // O_ExportTitle
+            // O2_RMultiple
             // 
-            resources.ApplyResources(this.O_ExportTitle, "O_ExportTitle");
-            this.O_ExportTitle.Name = "O_ExportTitle";
+            resources.ApplyResources(this.O2_RMultiple, "O2_RMultiple");
+            this.O2_RMultiple.Name = "O2_RMultiple";
+            this.O2_RMultiple.TabStop = true;
+            this.O2_RMultiple.UseVisualStyleBackColor = true;
             // 
-            // O_ExportL1
+            // O2_RSingle
             // 
-            resources.ApplyResources(this.O_ExportL1, "O_ExportL1");
-            this.O_ExportL1.Name = "O_ExportL1";
+            resources.ApplyResources(this.O2_RSingle, "O2_RSingle");
+            this.O2_RSingle.Name = "O2_RSingle";
+            this.O2_RSingle.TabStop = true;
+            this.O2_RSingle.UseVisualStyleBackColor = true;
             // 
-            // O_ExportBatch
+            // O2_Fullscreen
             // 
-            resources.ApplyResources(this.O_ExportBatch, "O_ExportBatch");
-            this.O_ExportBatch.Name = "O_ExportBatch";
+            resources.ApplyResources(this.O2_Fullscreen, "O2_Fullscreen");
+            this.O2_Fullscreen.Name = "O2_Fullscreen";
+            this.O2_Fullscreen.UseVisualStyleBackColor = true;
             // 
-            // O_ExportL2
+            // O_PresentationL1
             // 
-            resources.ApplyResources(this.O_ExportL2, "O_ExportL2");
-            this.O_ExportL2.Name = "O_ExportL2";
+            resources.ApplyResources(this.O_PresentationL1, "O_PresentationL1");
+            this.O_PresentationL1.Name = "O_PresentationL1";
             // 
-            // O_ExportBatchSize
+            // O_PresentationL3
             // 
-            resources.ApplyResources(this.O_ExportBatchSize, "O_ExportBatchSize");
-            this.O_ExportBatchSize.Name = "O_ExportBatchSize";
+            resources.ApplyResources(this.O_PresentationL3, "O_PresentationL3");
+            this.O_PresentationL3.Name = "O_PresentationL3";
             // 
-            // O1_Unique
+            // O2_Generate
             // 
-            resources.ApplyResources(this.O1_Unique, "O1_Unique");
-            this.O1_Unique.Name = "O1_Unique";
-            this.Description.SetToolTip(this.O1_Unique, resources.GetString("O1_Unique.ToolTip"));
-            this.O1_Unique.UseVisualStyleBackColor = true;
+            resources.ApplyResources(this.O2_Generate, "O2_Generate");
+            this.O2_Generate.Name = "O2_Generate";
+            this.O2_Generate.UseVisualStyleBackColor = true;
             // 
-            // O_ExportL3
+            // O_PresentationTitle
             // 
-            resources.ApplyResources(this.O_ExportL3, "O_ExportL3");
-            this.O_ExportL3.Name = "O_ExportL3";
+            resources.ApplyResources(this.O_PresentationTitle, "O_PresentationTitle");
+            this.O_PresentationTitle.Name = "O_PresentationTitle";
             // 
-            // O1_SecondRandom
+            // O_ModeComplementary
             // 
-            resources.ApplyResources(this.O1_SecondRandom, "O1_SecondRandom");
-            this.O1_SecondRandom.Name = "O1_SecondRandom";
-            this.Description.SetToolTip(this.O1_SecondRandom, resources.GetString("O1_SecondRandom.ToolTip"));
-            this.O1_SecondRandom.UseVisualStyleBackColor = true;
+            this.O_ModeComplementary.Controls.Add(this.O_ComplementaryL2);
+            this.O_ModeComplementary.Controls.Add(this.O_ComplementaryL1);
+            this.O_ModeComplementary.Controls.Add(this.O3_Clipboard);
+            this.O_ModeComplementary.Controls.Add(this.O3_EntryBox);
+            this.O_ModeComplementary.Controls.Add(this.O3_Insert);
+            this.O_ModeComplementary.Controls.Add(this.O_ComplementaryTitle);
+            resources.ApplyResources(this.O_ModeComplementary, "O_ModeComplementary");
+            this.O_ModeComplementary.Name = "O_ModeComplementary";
             // 
-            // O1_Tabular
+            // O_ComplementaryL2
             // 
-            resources.ApplyResources(this.O1_Tabular, "O1_Tabular");
-            this.O1_Tabular.Name = "O1_Tabular";
-            this.Description.SetToolTip(this.O1_Tabular, resources.GetString("O1_Tabular.ToolTip"));
-            this.O1_Tabular.UseVisualStyleBackColor = true;
+            resources.ApplyResources(this.O_ComplementaryL2, "O_ComplementaryL2");
+            this.O_ComplementaryL2.Name = "O_ComplementaryL2";
             // 
-            // O1_Generate
+            // O_ComplementaryL1
             // 
-            resources.ApplyResources(this.O1_Generate, "O1_Generate");
-            this.O1_Generate.Name = "O1_Generate";
-            this.O1_Generate.UseVisualStyleBackColor = true;
+            resources.ApplyResources(this.O_ComplementaryL1, "O_ComplementaryL1");
+            this.O_ComplementaryL1.Name = "O_ComplementaryL1";
             // 
-            // 紀錄視窗ToolStripMenuItem
+            // O3_Clipboard
             // 
-            this.紀錄視窗ToolStripMenuItem.Name = "紀錄視窗ToolStripMenuItem";
-            resources.ApplyResources(this.紀錄視窗ToolStripMenuItem, "紀錄視窗ToolStripMenuItem");
+            resources.ApplyResources(this.O3_Clipboard, "O3_Clipboard");
+            this.O3_Clipboard.Name = "O3_Clipboard";
+            this.O3_Clipboard.UseVisualStyleBackColor = true;
             // 
-            // 使用說明ToolStripMenuItem
+            // O3_EntryBox
             // 
-            this.使用說明ToolStripMenuItem.Name = "使用說明ToolStripMenuItem";
-            resources.ApplyResources(this.使用說明ToolStripMenuItem, "使用說明ToolStripMenuItem");
+            resources.ApplyResources(this.O3_EntryBox, "O3_EntryBox");
+            this.O3_EntryBox.ForeColor = System.Drawing.SystemColors.GrayText;
+            this.O3_EntryBox.Name = "O3_EntryBox";
             // 
-            // 儲存當前設定ToolStripMenuItem
+            // O3_Insert
             // 
-            this.儲存當前設定ToolStripMenuItem.Name = "儲存當前設定ToolStripMenuItem";
-            resources.ApplyResources(this.儲存當前設定ToolStripMenuItem, "儲存當前設定ToolStripMenuItem");
+            resources.ApplyResources(this.O3_Insert, "O3_Insert");
+            this.O3_Insert.Name = "O3_Insert";
+            this.O3_Insert.UseVisualStyleBackColor = true;
+            // 
+            // O_ComplementaryTitle
+            // 
+            resources.ApplyResources(this.O_ComplementaryTitle, "O_ComplementaryTitle");
+            this.O_ComplementaryTitle.Name = "O_ComplementaryTitle";
+            // 
+            // G_NameTitle
+            // 
+            resources.ApplyResources(this.G_NameTitle, "G_NameTitle");
+            this.G_NameTitle.Name = "G_NameTitle";
+            // 
+            // G_NameL1
+            // 
+            resources.ApplyResources(this.G_NameL1, "G_NameL1");
+            this.G_NameL1.Name = "G_NameL1";
+            // 
+            // G2_Masculine
+            // 
+            resources.ApplyResources(this.G2_Masculine, "G2_Masculine");
+            this.G2_Masculine.Name = "G2_Masculine";
+            this.G2_Masculine.TabStop = true;
+            this.G2_Masculine.UseVisualStyleBackColor = true;
+            // 
+            // G2_Feminine
+            // 
+            resources.ApplyResources(this.G2_Feminine, "G2_Feminine");
+            this.G2_Feminine.Name = "G2_Feminine";
+            this.G2_Feminine.TabStop = true;
+            this.G2_Feminine.UseVisualStyleBackColor = true;
+            // 
+            // G3_Unisex
+            // 
+            resources.ApplyResources(this.G3_Unisex, "G3_Unisex");
+            this.G3_Unisex.Name = "G3_Unisex";
+            this.G3_Unisex.TabStop = true;
+            this.G3_Unisex.UseVisualStyleBackColor = true;
+            // 
+            // G_NameL2
+            // 
+            resources.ApplyResources(this.G_NameL2, "G_NameL2");
+            this.G_NameL2.Name = "G_NameL2";
+            // 
+            // G2_Demend
+            // 
+            resources.ApplyResources(this.G2_Demend, "G2_Demend");
+            this.G2_Demend.FormattingEnabled = true;
+            this.G2_Demend.Items.AddRange(new object[] {
+            resources.GetString("G2_Demend.Items"),
+            resources.GetString("G2_Demend.Items1"),
+            resources.GetString("G2_Demend.Items2")});
+            this.G2_Demend.Name = "G2_Demend";
+            // 
+            // G_NameL3
+            // 
+            resources.ApplyResources(this.G_NameL3, "G_NameL3");
+            this.G_NameL3.Name = "G_NameL3";
+            // 
+            // G2_Themes
+            // 
+            resources.ApplyResources(this.G2_Themes, "G2_Themes");
+            this.G2_Themes.FormattingEnabled = true;
+            this.G2_Themes.Items.AddRange(new object[] {
+            resources.GetString("G2_Themes.Items"),
+            resources.GetString("G2_Themes.Items1"),
+            resources.GetString("G2_Themes.Items2"),
+            resources.GetString("G2_Themes.Items3")});
+            this.G2_Themes.MultiColumn = true;
+            this.G2_Themes.Name = "G2_Themes";
+            // 
+            // G_NameL4
+            // 
+            resources.ApplyResources(this.G_NameL4, "G_NameL4");
+            this.G_NameL4.Name = "G_NameL4";
+            // 
+            // G2_Rarity
+            // 
+            resources.ApplyResources(this.G2_Rarity, "G2_Rarity");
+            this.G2_Rarity.Name = "G2_Rarity";
+            // 
+            // G_NameL6
+            // 
+            resources.ApplyResources(this.G_NameL6, "G_NameL6");
+            this.G_NameL6.Name = "G_NameL6";
+            // 
+            // G_NameL5
+            // 
+            resources.ApplyResources(this.G_NameL5, "G_NameL5");
+            this.G_NameL5.Name = "G_NameL5";
+            // 
+            // G_NameL7
+            // 
+            resources.ApplyResources(this.G_NameL7, "G_NameL7");
+            this.G_NameL7.Name = "G_NameL7";
+            // 
+            // G2_Length
+            // 
+            resources.ApplyResources(this.G2_Length, "G2_Length");
+            this.G2_Length.Name = "G2_Length";
+            // 
+            // G_NameL8
+            // 
+            resources.ApplyResources(this.G_NameL8, "G_NameL8");
+            this.G_NameL8.Name = "G_NameL8";
+            // 
+            // G_NameL9
+            // 
+            resources.ApplyResources(this.G_NameL9, "G_NameL9");
+            this.G_NameL9.Name = "G_NameL9";
             // 
             // MainForm
             // 
@@ -410,12 +822,15 @@
             this.Controls.Add(this.Title);
             this.Controls.Add(this.Signature);
             this.Controls.Add(this.O_ModeExport);
-            this.Controls.Add(this.FileAccess);
-            this.Controls.Add(this.Output);
-            this.Controls.Add(this.Generation);
+            this.Controls.Add(this.O_ModePresentation);
+            this.Controls.Add(this.O_ModeComplementary);
             this.Controls.Add(this.G_ModeNumeric);
             this.Controls.Add(this.G_ModeName);
+            this.Controls.Add(this.Functions);
+            this.Controls.Add(this.Output);
+            this.Controls.Add(this.Generation);
             this.Controls.Add(this.MenuBar);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MainMenuStrip = this.MenuBar;
             this.Name = "MainForm";
             this.Load += new System.EventHandler(this.MainForm_Load);
@@ -425,12 +840,22 @@
             this.Generation.PerformLayout();
             this.Output.ResumeLayout(false);
             this.Output.PerformLayout();
+            this.Functions.ResumeLayout(false);
+            this.Functions.PerformLayout();
             this.O_ModeExport.ResumeLayout(false);
             this.O_ModeExport.PerformLayout();
             this.Signature.ResumeLayout(false);
             this.Signature.PerformLayout();
             this.MenuBar.ResumeLayout(false);
             this.MenuBar.PerformLayout();
+            this.G_ModeName.ResumeLayout(false);
+            this.G_ModeName.PerformLayout();
+            this.O_ModePresentation.ResumeLayout(false);
+            this.O_ModePresentation.PerformLayout();
+            this.O_ModeComplementary.ResumeLayout(false);
+            this.O_ModeComplementary.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.G2_Rarity)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.G2_Length)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -441,7 +866,7 @@
         private System.Windows.Forms.Panel G_ModeNumeric;
         private System.Windows.Forms.Panel Generation;
         private System.Windows.Forms.Panel Output;
-        private System.Windows.Forms.Panel FileAccess;
+        private System.Windows.Forms.Panel Functions;
         private System.Windows.Forms.Panel O_ModeExport;
         private System.Windows.Forms.Panel Signature;
         private System.Windows.Forms.Panel Title;
@@ -484,9 +909,61 @@
         private System.Windows.Forms.Label O_ExportL2;
         private System.Windows.Forms.TextBox O_ExportBatch;
         private System.Windows.Forms.Label O_ExportL1;
-        private System.Windows.Forms.ToolStripMenuItem 儲存當前設定ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 紀錄視窗ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 使用說明ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem General;
+        private System.Windows.Forms.ToolStripMenuItem Options;
+        private System.Windows.Forms.ToolStripMenuItem Settings;
+        private System.Windows.Forms.Panel O_ModePresentation;
+        private System.Windows.Forms.Button O2_Generate;
+        private System.Windows.Forms.Label O_PresentationTitle;
+        private System.Windows.Forms.ToolStripMenuItem Windows;
+        private System.Windows.Forms.ToolStripMenuItem SystemLog;
+        private System.Windows.Forms.ToolStripMenuItem UserManual;
+        private System.Windows.Forms.Label O_PresentationL3;
+        private System.Windows.Forms.CheckBox O2_ShowHistory;
+        private System.Windows.Forms.CheckBox O2_CancelAnimation;
+        private System.Windows.Forms.Button O2_Fullscreen;
+        private System.Windows.Forms.Label O_PresentationL1;
+        private System.Windows.Forms.RadioButton O2_RMultiple;
+        private System.Windows.Forms.RadioButton O2_RSingle;
+        private System.Windows.Forms.CheckBox O2_Emphasize;
+        private System.Windows.Forms.Label O_PresentationL2;
+        private System.Windows.Forms.Panel O_ModeComplementary;
+        private System.Windows.Forms.RichTextBox O3_EntryBox;
+        private System.Windows.Forms.Button O3_Insert;
+        private System.Windows.Forms.Label O_ComplementaryTitle;
+        private System.Windows.Forms.Label O_ComplementaryL2;
+        private System.Windows.Forms.Label O_ComplementaryL1;
+        private System.Windows.Forms.Button O3_Clipboard;
+        private System.Windows.Forms.Button F_Randomize;
+        private System.Windows.Forms.Label FunctionLabel;
+        private System.Windows.Forms.Button F_OpenFolder;
+        private System.Windows.Forms.ToolStripMenuItem ChangeLanguage;
+        private System.Windows.Forms.ToolStripMenuItem English;
+        private System.Windows.Forms.ToolStripMenuItem TraditionalChinese;
+        private System.Windows.Forms.ToolStripMenuItem SimplifiedChinese;
+        private System.Windows.Forms.Button F_Clear;
+        private System.Windows.Forms.ToolStripMenuItem Contact;
+        private System.Windows.Forms.ToolStripMenuItem SaveConfig;
+        private System.Windows.Forms.ToolStripMenuItem LoadConfig;
+        private System.Windows.Forms.ToolStripMenuItem Reset;
+        private System.Windows.Forms.ToolStripMenuItem Hotkeys;
+        private System.Windows.Forms.Label G_NameTitle;
+        private System.Windows.Forms.Label G_NameL1;
+        private System.Windows.Forms.Label G_NameL3;
+        private System.Windows.Forms.ComboBox G2_Demend;
+        private System.Windows.Forms.Label G_NameL2;
+        private System.Windows.Forms.RadioButton G3_Unisex;
+        private System.Windows.Forms.RadioButton G2_Feminine;
+        private System.Windows.Forms.RadioButton G2_Masculine;
+        private System.Windows.Forms.CheckedListBox G2_Themes;
+        private System.Windows.Forms.TrackBar G2_Rarity;
+        private System.Windows.Forms.Label G_NameL4;
+        private System.Windows.Forms.Label G_NameL5;
+        private System.Windows.Forms.Label G_NameL6;
+        private System.Windows.Forms.Label G_NameL7;
+        private System.Windows.Forms.Label G_NameL9;
+        private System.Windows.Forms.Label G_NameL8;
+        private System.Windows.Forms.TrackBar G2_Length;
     }
 }
 

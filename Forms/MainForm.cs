@@ -15,11 +15,12 @@ namespace Ranza_A_Randomizer_For_Everything_
         public MainForm()
         {
             InitializeComponent();
+            MaximizeBox = false;
         }
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-
+            Choices.SelectedIndex = 0;
         }
 
         #region Components
@@ -33,5 +34,6 @@ namespace Ranza_A_Randomizer_For_Everything_
         #region Menu Events
 
         #endregion
+
     }
 }
